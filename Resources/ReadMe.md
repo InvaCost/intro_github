@@ -20,13 +20,16 @@ Extra details:
 - OpenRefine to create reproducible workflow of data wrangling without as high a threshold for coding ability [link](https://openrefine.org/)
 
 - Examples of clean code/naming conventions you can adopt to make your code more accessible [naming conventions](https://datamanagement.hms.harvard.edu/collect/file-naming-conventions) OR R for Datascience [link](https://r4ds.had.co.nz/introduction.html)
+
 - [HappyGitWithR](https://happygitwithr.com/)
+
+- Folder and file organization [Link](https://uf-repro.github.io/data-organization/notes.html)
 
 From the workshop: 
 
-![Infographic](https://github.com/emmajhudgins/WEN_github/blob/main/Resources/github_infographic.png)
+![Infographic](https://github.com/emmajhudgins/invacost_github/blob/main/Resources/github_infographic.png)
 
-[Slides](https://github.com/emmajhudgins/WEN_github/blob/main/Resources/Project-based%20workflows%20with%20GitHub.pdf)
+[Slides](https://github.com/emmajhudgins/invacost_github/blob/main/Resources/GitHub_presentation.pdf)
 
 
 
